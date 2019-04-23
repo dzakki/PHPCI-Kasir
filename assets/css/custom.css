@@ -1,0 +1,6 @@
+.sidebar.show .store-icon{
+    margin-left: 10px;
+}
+.cart:hover .content {
+	display: block;
+}
