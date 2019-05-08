@@ -24,5 +24,6 @@
     <script src="<?= base_url('assets/')?>js/charts-home.js"></script>
     <script src="<?= base_url('assets/')?>js/front.js"></script>
     <script src="<?= base_url('assets/')?>js/store.js"></script>
+    <?= $script ?>
   </body>
 </html>

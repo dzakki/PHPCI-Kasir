@@ -57,9 +57,10 @@
                               <input type="hidden" name="id" value="">
                               <select class="form-control" name="level">
                                   <option value="1" >1 - Customer</option>
-                                  <option value="2" >2 - Chasier</option>
-                                  <option value="3" >3 - Waiter</option>
-                                  <option value="4" >4 - Admin</option>
+                                  <option value="2" >2 - Owner</option>
+                                  <option value="3" >3 - Chasier</option>
+                                  <option value="4" >4 - Waiter</option>
+                                  <option value="5" >5 - Admin</option>
                               </select>
                             </div>
                         </div>

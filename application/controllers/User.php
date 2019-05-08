@@ -8,6 +8,7 @@ class User extends CI_Controller {
 		parent::__construct();
 		$this->load->model('user_model');
 	}
+
 	public function update()
 	{
 		$this->form_validation->set_rules('firstname','Firstname','required');
